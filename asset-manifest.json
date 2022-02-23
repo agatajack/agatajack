@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agatajack/static/css/main.7fe385db.css",
-    "main.js": "/agatajack/static/js/main.8488e4fe.js",
+    "main.js": "/agatajack/static/js/main.b6990ded.js",
     "static/media/back-5.jpg": "/agatajack/static/media/back-5.5bd1daaf7749588c841c.jpg",
     "static/media/back-9.jpg": "/agatajack/static/media/back-9.d5e76e25409b5f7fd022.jpg",
     "index.html": "/agatajack/index.html",
     "main.7fe385db.css.map": "/agatajack/static/css/main.7fe385db.css.map",
-    "main.8488e4fe.js.map": "/agatajack/static/js/main.8488e4fe.js.map"
+    "main.b6990ded.js.map": "/agatajack/static/js/main.b6990ded.js.map"
   },
   "entrypoints": [
     "static/css/main.7fe385db.css",
-    "static/js/main.8488e4fe.js"
+    "static/js/main.b6990ded.js"
   ]
 }
